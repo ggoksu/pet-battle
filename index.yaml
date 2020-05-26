@@ -1,5 +1,15 @@
 entries:
   pet-battle:
+  - appVersion: 1.0.4
+    created: 2020-05-20T11:37:47.405Z
+    description: A Helm chart to deploy the frontend of the Pet Battle
+    digest: 785b4bd6fce219234694e62763a3bb40239a5bf37b261244c619df79b248335d
+    maintainers:
+    - name: springdo
+    name: pet-battle
+    urls:
+    - https://raw.githubusercontent.com/dschromeos/pet-battle/gh-pages/pet-battle-1.0.4.tgz
+    version: 1.0.4
   - appVersion: 1.0.3
     created: 2020-05-20T11:37:47.405Z
     description: A Helm chart to deploy the frontend of the Pet Battle
