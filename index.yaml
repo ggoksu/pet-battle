@@ -61,6 +61,16 @@ entries:
     - https://raw.githubusercontent.com/dschromeos/pet-battle/gh-pages/pet-battle-1.0.1.tgz
     version: 1.0.1
   pet-battle-api:
+  - appVersion: 1.0.2
+    created: 2020-05-20T11:40:41.110Z
+    description: A Helm chart for Kubernetes
+    digest: e34e874083aa5a14d7f1f424a84116fe872232158a20ece3aee9a21d06c99b2c
+    maintainers:
+    - name: eformat
+    name: pet-battle-api
+    urls:
+    - https://raw.githubusercontent.com/dschromeos/pet-battle/gh-pages/pet-battle-api-1.0.2.tgz
+    version: 1.0.2
   - appVersion: 1.0.0
     created: 2020-05-20T11:40:41.110Z
     description: A Helm chart for Kubernetes
